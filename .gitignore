@@ -1,3 +1,10 @@
 .metadata/
 .recommenders/
 RemoteSystemsTempFiles/
+*.class
+*.classpath
+*.project
+*.prefs
+pom.xml
+*.MF
+*.properties
